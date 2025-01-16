@@ -16,7 +16,7 @@ LEFT CLICK - select which allies to select, enemies to attack and  to roll dice 
 -DEV KEYBINDS- <br />
 Z and X - to immediately start and end the placeholder combat encounter
 
--THINGS OF NOTE-
+-THINGS OF NOTE- <br />
 While in combat, the triangles under the enemies are there to signal to you which character they are about to attack.
 This is meant to help you better prepare and to better use what dice you are given. <br />
 
