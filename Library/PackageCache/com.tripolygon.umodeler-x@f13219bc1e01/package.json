@@ -1,0 +1,13 @@
+{
+  "name": "com.tripolygon.umodeler-x",
+  "version": "0.19.16",
+  "displayName": "UModeler X",
+  "description": "This is UModeler X, which is the highend 3D modeling solution.",
+  "unity": "2020.3",
+  "author": {
+    "name": "UModeler",
+    "email": "contact.support@umodeler.com",
+    "url": "https://www.umodeler.com"
+  },
+  "_fingerprint": "f13219bc1e01"
+}

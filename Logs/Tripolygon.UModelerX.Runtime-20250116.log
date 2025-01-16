@@ -1,0 +1,140 @@
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.UI.IApplicationCache = Tripolygon.UModeler.Editor.UI.UnityEditorApplicationCache
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.Authentication.IAuthenticationApiProvider = Tripolygon.UModeler.Editor.AuthenticationApiProviderService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.Editor.UI.ApplicationSettings = Tripolygon.UModeler.Editor.UI.ApplicationSettings
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.UI.IApplicationUtilityService = Tripolygon.UModeler.Editor.UI.UnityEditorApplicationUtilityService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.UI.ITextureProvider = Tripolygon.UModeler.Editor.UI.UnityEditorTextureProvider
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModeler.UI.IObjectHierarchyService = Tripolygon.UModeler.Editor.UI.UnityEditorObjectHierarchyService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.InspectorService = Tripolygon.UModelerX.Editor.InspectorService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.IAnalyticsService = Tripolygon.UModelerX.Editor.UMXAnalyticsService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.UMXModifierToolSetService = Tripolygon.UModelerX.Editor.UMXModifierToolSetService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.UMXApplicationService = Tripolygon.UModelerX.Editor.UMXApplicationService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.AuthenticationHost = Tripolygon.UModelerX.Editor.AuthenticationHost
+[1/16/2025 3:39:45 PM] [Warning] Application Service 'Tripolygon.UModelerX.Editor.Zepeto.ZepetoExportService' is null.
+[1/16/2025 3:39:45 PM] [Warning] Application Service 'Tripolygon.UModelerX.Editor.Zepeto.ZepetoExportService' is null.
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.IHubService = Tripolygon.UModelerX.Editor.Views.UMXHubService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.Views.SceneViews.UMXSceneViewService = Tripolygon.UModelerX.Editor.Views.SceneViews.UMXSceneViewService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.ISelectedObjectService = Tripolygon.UModelerX.Editor.Views.SceneViews.UMXObjectService
+[1/16/2025 3:39:45 PM] [Debug] [Application] service: Tripolygon.UModelerX.Editor.VRChat.VRChatExportService = Tripolygon.UModelerX.Editor.VRChat.VRChatExportService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Initialize: isReloading=False
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModeler.Editor.UI.UnityEditorApplicationCache
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModeler.Editor.UI.UnityEditorApplicationUtilityService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.InspectorService
+[1/16/2025 3:39:46 PM] [Debug] [UMXAnalytics] PosthogClient.SetAutoFlush: Value Changed: True
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.UMXAnalyticsService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.UMXModifierToolSetService
+[1/16/2025 3:39:46 PM] [Debug] [UMXApplication] Initialize / 
+[1/16/2025 3:39:46 PM] [Warning] Please rename Method 'Tripolygon.UModelerX.Editor.UMXMultipleObjectEditorTool.OnChanged' to 'EdMeshSettings_PropertyChanged'.
+[1/16/2025 3:39:46 PM] [Debug] [UMXEditor] Initialize: 'Tripolygon.UModelerX.Editor.MultiObjects.MultipleObjectsEditor'
+[1/16/2025 3:39:46 PM] [Debug] [UMXApplication] RefreshSelections. Tripolygon.UModeler.Editor.UI.UnityEditorObjectHierarchyService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.UMXApplicationService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.AuthenticationHost
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.Zepeto.ZepetoExportService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.Views.UMXHubService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.Views.SceneViews.UMXSceneViewService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.Views.SceneViews.UMXObjectService
+[1/16/2025 3:39:46 PM] [Debug] [Application] Service Initialize: Tripolygon.UModelerX.Editor.VRChat.VRChatExportService
+[1/16/2025 3:39:46 PM] [Debug] [UMXCommandServiceUtility] AssemblyReloadEvents_AfterAssemblyReload
+[1/16/2025 3:39:46 PM] [Debug] [UMXCommandService] UMXCommandService.Initialize
+[1/16/2025 3:39:47 PM] [Debug] [UMXCommandServiceUtility] EditorSceneManager_SceneClosing(scene: '', removingScene: 'True')
+[1/16/2025 3:39:47 PM] [Debug] [Cache] 
+[1/16/2025 3:39:47 PM] [Debug] [Cache] UModelerXEditableMeshCache Create UModelerXEditableMeshCache_3c041e45-19b3-42e4-94ab-4e45f37fabbe 
+[1/16/2025 3:39:47 PM] [Debug] [Cache] UModelerXEditableMeshCache Destroy UModelerXEditableMeshCache_3c041e45-19b3-42e4-94ab-4e45f37fabbe 
+[1/16/2025 3:39:47 PM] [Debug] [UMXApplication] RefreshSelections. Tripolygon.UModeler.Editor.UI.UnityEditorObjectHierarchyService
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 357942e8-5d45-46d9-8e67-62cbbc5b17a5 : 38108
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : 38108
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 1cf5bdbb-b243-42de-9c40-fb00941b0b07 : -1896
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -1896
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 376aef4d-f3b8-42b7-9346-db219d422bd0 : -2200
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -2200
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: eddc546a-d033-4cc9-a991-efdee7faa896 : -4226
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -4226
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 9614aeea-3da2-4a76-996f-10f8fdfc3c36 : -5436
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -5436
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 111dcf8b-3d03-431a-91dd-033a4fcdd60e : 41170
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: f66c4e68-54f6-4dec-97cc-53efb18e2d31 : 41182
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : bb897686-9256-4bf4-8ac9-fb70463aefb1 : 41170
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : bb897686-9256-4bf4-8ac9-fb70463aefb1 : 41182
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 7f590ec3-8262-4fc3-ad88-390bb5899616 : -9670
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 39724606-4e28-4140-aa4a-0f3d8207d1e6 : -9692
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : bb897686-9256-4bf4-8ac9-fb70463aefb1 : -9670
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : bb897686-9256-4bf4-8ac9-fb70463aefb1 : -9692
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 73ad6341-079d-4ae7-b1e6-dcb6648fdc47 : -11862
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -11862
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 4bb7c270-7024-44b9-91eb-6ece524f253b : -11928
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -11928
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: bfec6c4f-a9cb-4e23-980f-710de7ae1deb : -12538
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -12538
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 5fca4e54-ae07-4d54-856a-e4788ce12f6b : -13692
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -13692
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: e789298b-d430-4964-aaa6-a92fa3fd5bee : -14546
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -14546
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] UModelerXEditableMesh: 1a380b8b-fe68-4057-9324-2c388e66b5da : -15816
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnAfterDeserialize : e198b5c2-8ffe-42a6-9cba-429ebe914062 : -15816
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -15816: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -14546: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -13692: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -12538: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -11928: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: bb897686-9256-4bf4-8ac9-fb70463aefb1 : -9692: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: bb897686-9256-4bf4-8ac9-fb70463aefb1
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: bb897686-9256-4bf4-8ac9-fb70463aefb1 : -9670: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: bb897686-9256-4bf4-8ac9-fb70463aefb1
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -5436: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -4226: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -2200: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] Awake: e198b5c2-8ffe-42a6-9cba-429ebe914062 : -1896: ActiveFalse
+[1/16/2025 3:39:47 PM] [Debug] [UModelerXEditableMesh] OnEnable: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:50 PM] [Debug] [UMXAnalytics] OnAppStart
+[1/16/2025 3:39:53 PM] [Debug] [UMXApplication] RefreshSelections. Tripolygon.UModeler.Editor.UI.UnityEditorObjectHierarchyService
+[1/16/2025 3:39:56 PM] [Debug] [UMXAnalytics] PosthogClient.BatchAsync: Sending Queue Items={"api_key":"phc_DQ6tsN03HRXTr9hNBfi3DierOY5Y0SisUxgxjuAmZG5","batch":[{"event":"app start","properties":{"$set":{"sdk_region_id":"en-US","sdk_region_name":"United States","sdk_language":"English","sdk_os_architecture":"X64","sdk_time_zone":"GTB Standard Time","product_version":"0.19.16","playform_version":"Unity 2023.2.3f1","platform_account_id":"anonymous","platform_account_name":"ZyTsPq+pT8Zo5sIgzySziwcpwGdtR5PY117NndTbZvkz77+tVZrCkyXLOv1s50XFFCtjtwu6CkooLaq5HQjGtryZLXmHGEZop0NGhETwWgdMQumJEGGNdqnTdocq27p0zSxgq+BIP13XrMxZIpJzC2Do3VZmPGMIVdN3/lND3ri/D+GLaV6ODUE9lnUrPlDrDs+1S38V2CF086qdtT6uuRMD0R6rj8d2xPfQrJiFyY3JZZQ+YCwhl1wxxuzdQ6fIStgeCHiOcW7y4FFR/ItYrqGMKXdrL3aRWnuP1WDOTm1xEEDGk9z6HTWJinRLuHR8DQtWKOZ8iWTIo3PJMHFqAg=="},"$os":"WINDOWS","$os_name":"WINDOWS","$session_id":"b7c26080-c7b0-409e-a9cb-6155540d53e7_048520e4-2be3-42be-8479-4fa53ed6606c","distinct_id":"d52641226519bab0006431cf9fb9717b87bf04c4","product_name":"UModeler X","product_version":"0.19.16","platform_name":"Unity","platform_version":"2023.2.3f1","screen_width":1920,"screen_height":1080,"viewport_width":1920,"viewport_height":1080,"unity_systeminfo_language":"English","unity_systeminfo_os":"Windows 10  (10.0.19045) 64bit","unity_systeminfo_graphicsDeviceType":"Direct3D11","unity_systeminfo_graphicsDeviceVendor":"NVIDIA","unity_systeminfo_graphicsDeviceName":"NVIDIA GeForce GTX 1660 Ti","unity_systeminfo_deviceType":"Desktop","unity_systeminfo_processorType":"Intel(R) Core(TM) i7-9750HF CPU @ 2.60GHz"},"timestamp":"2025-01-16T13:39:50.5428765Z"}]}
+[1/16/2025 3:39:56 PM] [Debug] [UMXAnalytics] PosthogClient.BatchAsync: Sent 1 queue item(s).
+[1/16/2025 3:39:57 PM] [Debug] [Application] Release: isReloading=False
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.VRChat.VRChatExportService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.Views.SceneViews.UMXObjectService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.Views.SceneViews.UMXSceneViewService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.Views.UMXHubService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.Zepeto.ZepetoExportService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.AuthenticationHost
+[1/16/2025 3:39:57 PM] [Debug] [UMXApplication] Release redoing False / Tripolygon.UModeler.Editor.UI.UnityEditorObjectHierarchyService
+[1/16/2025 3:39:57 PM] [Debug] [UMXEditor] Release: 'Tripolygon.UModelerX.Editor.MultiObjects.MultipleObjectsEditor'
+[1/16/2025 3:39:57 PM] [Debug] [Cache] UModelerXEditableMeshCache Create UModelerXEditableMeshCache_2c9cb56b-58b3-426d-bc51-7fdf44d3e1d7 
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.UMXApplicationService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.UMXModifierToolSetService
+[1/16/2025 3:39:57 PM] [Debug] [UMXAnalytics] OnAppEnd
+[1/16/2025 3:39:57 PM] [Debug] [UMXAnalytics] PosthogClient.SetAutoFlush: Value Changed: False
+[1/16/2025 3:39:57 PM] [Debug] [UMXAnalytics] PosthogClient.BatchAsync: Sending Queue Items={"api_key":"phc_DQ6tsN03HRXTr9hNBfi3DierOY5Y0SisUxgxjuAmZG5","batch":[{"event":"app end","properties":{"$set":{"sdk_region_id":"en-US","sdk_region_name":"United States","sdk_language":"English","sdk_os_architecture":"X64","sdk_time_zone":"GTB Standard Time","product_version":"0.19.16","playform_version":"Unity 2023.2.3f1"},"$os":"WINDOWS","$os_name":"WINDOWS","$session_id":"b7c26080-c7b0-409e-a9cb-6155540d53e7_048520e4-2be3-42be-8479-4fa53ed6606c","distinct_id":"d52641226519bab0006431cf9fb9717b87bf04c4","product_name":"UModeler X","product_version":"0.19.16","platform_name":"Unity","platform_version":"2023.2.3f1","screen_width":1920,"screen_height":1080,"viewport_width":1920,"viewport_height":1080,"unity_systeminfo_language":"English","unity_systeminfo_os":"Windows 10  (10.0.19045) 64bit","unity_systeminfo_graphicsDeviceType":"Direct3D11","unity_systeminfo_graphicsDeviceVendor":"NVIDIA","unity_systeminfo_graphicsDeviceName":"NVIDIA GeForce GTX 1660 Ti","unity_systeminfo_deviceType":"Desktop","unity_systeminfo_processorType":"Intel(R) Core(TM) i7-9750HF CPU @ 2.60GHz"},"timestamp":"2025-01-16T13:39:57.264424Z"}]}
+[1/16/2025 3:39:57 PM] [Debug] [UMXAnalytics] PosthogClient.BatchAsync: Sent 1 queue item(s).
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.UMXAnalyticsService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModelerX.Editor.InspectorService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModeler.Editor.UI.UnityEditorApplicationUtilityService
+[1/16/2025 3:39:57 PM] [Debug] [Application] Service Release: Tripolygon.UModeler.Editor.UI.UnityEditorApplicationCache
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: bb897686-9256-4bf4-8ac9-fb70463aefb1: -9670: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: bb897686-9256-4bf4-8ac9-fb70463aefb1: -9692: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: bb897686-9256-4bf4-8ac9-fb70463aefb1
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: bb897686-9256-4bf4-8ac9-fb70463aefb1
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -14546: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -4226: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -2200: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -11928: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -13692: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -1896: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -15816: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -5436: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDisable: e198b5c2-8ffe-42a6-9cba-429ebe914062: -12538: ActiveFalse
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062
+[1/16/2025 3:39:57 PM] [Debug] [UModelerXEditableMesh] OnDestroy: e198b5c2-8ffe-42a6-9cba-429ebe914062

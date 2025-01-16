@@ -1,0 +1,509 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1716876100796708, "dur":44895, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876100841610, "dur":155, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876100841797, "dur":767, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876100842697, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1716876100842938, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1716876100843071, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1716876100843664, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716876100843794, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716876100844103, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModelerX.PureCode.Editor.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716876100844207, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716876100844916, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716876100842632, "dur":4669, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876100847302, "dur":751043, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876101598346, "dur":339, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876101598685, "dur":85, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876101598920, "dur":6003, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1716876100842820, "dur":4486, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876100847308, "dur":19204, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876100866523, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/10591996493174842490.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1716876100866576, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876100866691, "dur":1420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/terra/Dungeon/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1716876100868112, "dur":6795, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876100881554, "dur":7895, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876100881356, "dur":8095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876100890469, "dur":9512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876100900083, "dur":170436, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876100899983, "dur":170538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101070586, "dur":32831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101103556, "dur":5738, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101103420, "dur":5877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101115587, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876101109360, "dur":6296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101115803, "dur":5953, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101115659, "dur":6099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101121769, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716876101121883, "dur":18342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101140369, "dur":31936, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101140230, "dur":32077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101172326, "dur":10671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101183137, "dur":262371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101183002, "dur":262509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101445544, "dur":5453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716876101451003, "dur":147349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100843509, "dur":3826, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100847338, "dur":2139, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100849478, "dur":2056, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100851535, "dur":2280, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100853815, "dur":12724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100866540, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1716876100866682, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100866816, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1716876100866937, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100867053, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100867195, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100867338, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100867481, "dur":13878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100881486, "dur":7380, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100881360, "dur":7508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100900139, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100890075, "dur":10197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100900381, "dur":5168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100900273, "dur":5278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100905570, "dur":5684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100911743, "dur":7701, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100911256, "dur":8190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100926532, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876100919469, "dur":8019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100928189, "dur":326684, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876100927492, "dur":327382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101254883, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716876101254963, "dur":3991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101259096, "dur":6925, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101258964, "dur":7059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101266056, "dur":6581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101272773, "dur":6199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101272641, "dur":6334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101279013, "dur":12448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101291587, "dur":6123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101291467, "dur":6247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101297759, "dur":9260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101307259, "dur":5876, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101307024, "dur":6114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101313169, "dur":7986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101321281, "dur":143576, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101321161, "dur":143698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101464881, "dur":2777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716876101467661, "dur":130676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100842992, "dur":4320, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100847314, "dur":2105, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100849419, "dur":1980, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100851399, "dur":2010, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100853409, "dur":1667, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100855076, "dur":11503, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100866580, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1716876100866783, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100866930, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1716876100867041, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100867152, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100867291, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100867406, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100867526, "dur":13908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100881568, "dur":7635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100881434, "dur":7770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100890401, "dur":9746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100900266, "dur":5650, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100900150, "dur":5767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100905934, "dur":6567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100912611, "dur":5151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100912503, "dur":5260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100917781, "dur":7786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100925783, "dur":6232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100925572, "dur":6444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100944880, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876100932060, "dur":12915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100945145, "dur":9247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100945006, "dur":9389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100954424, "dur":6373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100960924, "dur":10216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100960800, "dur":10342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100971169, "dur":22622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100993920, "dur":162453, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876100993795, "dur":162580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101156440, "dur":8550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101165182, "dur":6909, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101164994, "dur":7098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101172103, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716876101172198, "dur":3741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101176117, "dur":61783, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101175942, "dur":61960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101237931, "dur":4172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101242215, "dur":192584, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Tripolygon.UModeler.Hub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101242106, "dur":192696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModeler.Hub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101434837, "dur":5444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModeler.Hub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716876101440305, "dur":158044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100843191, "dur":4126, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100847319, "dur":2102, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100849421, "dur":2022, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100851444, "dur":2135, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100853579, "dur":345, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100853924, "dur":12617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100866542, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1716876100866675, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100866805, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1716876100866921, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100867022, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100867145, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100867253, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100867353, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100867484, "dur":13949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716876100881580, "dur":5551, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100881434, "dur":5698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100890378, "dur":10094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100900600, "dur":7204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100900473, "dur":7332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100907850, "dur":4619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100912724, "dur":5974, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100912472, "dur":6228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100918720, "dur":4413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100923236, "dur":230233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876100923138, "dur":230333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101153502, "dur":4190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101157809, "dur":64567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101157695, "dur":64682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101222479, "dur":5489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101228093, "dur":6788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101227970, "dur":6914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101234923, "dur":11775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101246934, "dur":7300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101246703, "dur":7534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101254270, "dur":5812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101260241, "dur":5897, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101260088, "dur":6052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101266191, "dur":5284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101271629, "dur":320640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101271480, "dur":320791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716876101592288, "dur":5994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100843338, "dur":3986, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100847327, "dur":2060, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100849387, "dur":2047, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100851435, "dur":2144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100853580, "dur":12939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100866564, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100866819, "dur":1002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1716876100867821, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100867902, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100867971, "dur":13416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716876100881530, "dur":5492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100881388, "dur":5637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100890413, "dur":9280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100899859, "dur":6080, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100899695, "dur":6245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100905955, "dur":5589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100911690, "dur":5166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100911546, "dur":5312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100916886, "dur":4409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100921410, "dur":125063, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876100921302, "dur":125172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101046505, "dur":11274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101057934, "dur":240608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101057797, "dur":240747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101298568, "dur":4267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101302958, "dur":5797, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101302837, "dur":5921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101308793, "dur":8666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101317647, "dur":6187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101317463, "dur":6373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101323865, "dur":19557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101343602, "dur":7527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101343426, "dur":7706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101351177, "dur":21320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101372797, "dur":6284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101372507, "dur":6577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101379118, "dur":3995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101383383, "dur":6350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101383122, "dur":6612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101389758, "dur":5167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101395051, "dur":9156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101394936, "dur":9274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101404244, "dur":10474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101414867, "dur":13164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101414731, "dur":13304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101428076, "dur":7303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716876101435383, "dur":162959, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100843446, "dur":3883, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100847331, "dur":2307, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100849639, "dur":2145, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100851784, "dur":2169, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100853953, "dur":12581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100866535, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1716876100866682, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100866869, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1716876100866990, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100867112, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1716876100867224, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100867371, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100867499, "dur":13936, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100881566, "dur":7228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100881436, "dur":7360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100890452, "dur":8801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100899372, "dur":5893, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100899255, "dur":6013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100905276, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716876100905353, "dur":5611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100911079, "dur":5836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100910967, "dur":5949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100917014, "dur":4679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100921805, "dur":131593, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876100921696, "dur":131704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101053426, "dur":5787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101059335, "dur":111159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101059216, "dur":111279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101170557, "dur":4630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101175349, "dur":259477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101175210, "dur":259618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101434845, "dur":5318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716876101440167, "dur":158172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100843640, "dur":3700, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100847343, "dur":2151, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100849494, "dur":2123, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100851617, "dur":2279, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100853897, "dur":12686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100866583, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1716876100866744, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100867101, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100867209, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100867402, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100867530, "dur":13830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100881509, "dur":7342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100881361, "dur":7492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100890371, "dur":9905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100900394, "dur":45775, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100900278, "dur":45893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100946195, "dur":4276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100950586, "dur":5362, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100950475, "dur":5475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100955977, "dur":7447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100963542, "dur":5407, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100963427, "dur":5524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100973862, "dur":100, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716876100968980, "dur":4998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100974112, "dur":321807, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876100973981, "dur":321941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876101295959, "dur":6746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876101302990, "dur":150495, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876101302709, "dur":150777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876101453510, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716876101456383, "dur":141964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100843665, "dur":3681, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100847349, "dur":2139, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100849488, "dur":2125, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100851614, "dur":2284, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100853898, "dur":12623, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100866535, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100866697, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100866859, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1716876100866972, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100867076, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100867198, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100867336, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100867491, "dur":13922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876100881543, "dur":6967, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100881414, "dur":7097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100890277, "dur":8589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100898985, "dur":6269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100898870, "dur":6387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100905297, "dur":5603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100911146, "dur":6335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100910904, "dur":6578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100917500, "dur":4612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100922216, "dur":107906, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876100922115, "dur":108009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101030157, "dur":3522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101033801, "dur":5549, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101033682, "dur":5671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101039490, "dur":11985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101051591, "dur":7159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101051478, "dur":7273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101058778, "dur":4511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101063405, "dur":303688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101063292, "dur":303803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101367124, "dur":10303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101377568, "dur":6742, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101377435, "dur":6876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101384329, "dur":4533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101389005, "dur":8110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101388864, "dur":8253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101397153, "dur":15699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101413064, "dur":18119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101412861, "dur":18325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101431199, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716876101431354, "dur":5430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716876101436806, "dur":161548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100843690, "dur":3661, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100847353, "dur":2492, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100849845, "dur":2197, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100852043, "dur":2125, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100854168, "dur":12414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100866583, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1716876100866716, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100866833, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1716876100866946, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100867058, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon.exe" }}
+,{ "pid":12345, "tid":9, "ts":1716876100867201, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100867342, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100867488, "dur":13869, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876100881535, "dur":5616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100881358, "dur":5794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100890514, "dur":8435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100899053, "dur":7375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100898951, "dur":7478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100906547, "dur":6565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100913215, "dur":141785, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876100913114, "dur":141888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101055033, "dur":7897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101063052, "dur":259458, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101062935, "dur":259577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101322571, "dur":6344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101329116, "dur":8493, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101328920, "dur":8692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101337648, "dur":9764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101347609, "dur":8820, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101347418, "dur":9013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101356465, "dur":3560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101360229, "dur":6064, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101360030, "dur":6265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101376065, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876101366330, "dur":9910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101376370, "dur":7756, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101376245, "dur":7884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101388495, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716876101384161, "dur":4405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101388710, "dur":144838, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Tripolygon.UModelerX.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101388570, "dur":144980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModelerX.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101533570, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModelerX.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716876101538383, "dur":59960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100843726, "dur":3632, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100847360, "dur":2047, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100849407, "dur":2023, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100851430, "dur":2060, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100853491, "dur":1605, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100855097, "dur":11440, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100866538, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1716876100866680, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100866811, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1716876100866942, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100867062, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1716876100867196, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100867309, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100867413, "dur":13948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716876100881511, "dur":113545, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876100881361, "dur":113697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876100995144, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876100998881, "dur":40528, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Tripolygon.UModelerX.PureCode.Editor.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876100998758, "dur":40654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModelerX.PureCode.Editor.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101039493, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Tripolygon.UModelerX.PureCode.Editor.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101043098, "dur":7887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101042979, "dur":8008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101051017, "dur":6756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101057915, "dur":152120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\MessagePackDLL.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101057778, "dur":152260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/MessagePackDLL.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101210091, "dur":6357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/MessagePackDLL.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101216600, "dur":7028, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101216452, "dur":7177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101223658, "dur":4303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101228105, "dur":145184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101227966, "dur":145325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101373317, "dur":4147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101377634, "dur":6669, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101377466, "dur":6838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101384324, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101389346, "dur":79152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101389234, "dur":79265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101468516, "dur":2781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716876101471300, "dur":127064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100843869, "dur":3496, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100847367, "dur":2598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100849966, "dur":2041, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100852007, "dur":2235, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100854242, "dur":12298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100866541, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1716876100866685, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100866954, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1716876100867197, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100867416, "dur":13972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876100881517, "dur":6926, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100881389, "dur":7057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100890480, "dur":8547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100899159, "dur":9024, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100899029, "dur":9155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100908203, "dur":4841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100913153, "dur":5581, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100913046, "dur":5690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100918757, "dur":6813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100925778, "dur":6085, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100925573, "dur":6292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100931894, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100935714, "dur":6057, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100935545, "dur":6228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100941799, "dur":3736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100946429, "dur":50587, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100945537, "dur":51481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876100997044, "dur":15794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101012960, "dur":202359, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101012843, "dur":202478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101215350, "dur":6963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101222443, "dur":6335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101222318, "dur":6461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101228804, "dur":11893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101240820, "dur":32441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101240704, "dur":32559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101273290, "dur":6348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101279779, "dur":8526, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101279643, "dur":8664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101288348, "dur":4253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101292796, "dur":114668, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101292606, "dur":114867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101407485, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716876101407576, "dur":7532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716876101415112, "dur":183228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100843948, "dur":3470, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100847419, "dur":2040, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100849460, "dur":1963, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100851423, "dur":2157, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100853581, "dur":13000, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100866581, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1716876100866711, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100866842, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1716876100866995, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100867226, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100867420, "dur":13936, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876100881474, "dur":317838, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876100881358, "dur":317956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101199421, "dur":11297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101210829, "dur":7238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101210722, "dur":7347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101218100, "dur":4772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101223001, "dur":6159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101222875, "dur":6287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101229182, "dur":4605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101233911, "dur":6012, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101233793, "dur":6132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101239936, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876101240060, "dur":3281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101243476, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101243345, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101243804, "dur":6508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101250452, "dur":6576, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101250317, "dur":6714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101257068, "dur":11528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101268751, "dur":6905, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101268602, "dur":7059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101275702, "dur":7296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101283190, "dur":6433, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101283002, "dur":6625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101302890, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716876101289663, "dur":13301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101303880, "dur":69430, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101302966, "dur":70345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101373328, "dur":5206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101378651, "dur":6152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101378537, "dur":6268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101384851, "dur":4442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101389413, "dur":10579, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101389295, "dur":10705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101400036, "dur":15100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/terra/OneDrive/Desktop/The Game/Dungeon_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716876101415138, "dur":183219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716876101611767, "dur":4530, "ph":"X", "name": "ProfilerWriteOutput" }
+,

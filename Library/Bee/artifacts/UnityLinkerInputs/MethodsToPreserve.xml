@@ -1,0 +1,48 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Gate">
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Open"/>
+			<method name="Open"/>
+			<method name="Open"/>
+		</type>
+		<type fullname="ManyBattleSystem">
+			<method name="OnAttackButton"/>
+			<method name="OnAttackButton"/>
+			<method name="OnAttackButton"/>
+			<method name="OnAttackButton"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+			<method name="Select"/>
+		</type>
+	</assembly>
+</linker>
