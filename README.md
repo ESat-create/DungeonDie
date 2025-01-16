@@ -5,7 +5,7 @@ This was also my first time creating a turn based system with multiple combatant
 <CONTROLS>
 -DUNGEON CRAWL MODE-
 W - Walk forwards
-A - Strafe left
+>A - Strafe left
 S - Walk backwards
 D - Strafe right
 Q - Turn left
