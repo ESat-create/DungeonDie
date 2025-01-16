@@ -4,13 +4,13 @@ This was also my first time creating a turn based system with multiple combatant
 
 -CONTROLS- <br />
 -DUNGEON CRAWL MODE-
-W - Walk forwards
-A - Strafe left
-S - Walk backwards
-D - Strafe right
-Q - Turn left
-E - Turn right
-F - Interact
+W - Walk forwards <br />
+A - Strafe left <br />
+S - Walk backwards <br />
+D - Strafe right <br />
+Q - Turn left <br />
+E - Turn right <br />
+F - Interact <br />
 -COMBAT MODE-
 LEFT CLICK - select which allies to select, enemies to attack and  to roll dice
 -DEV KEYBINDS-
@@ -18,7 +18,7 @@ Z and X - to immediately start and end the placeholder combat encounter
 
 -THINGS OF NOTE-
 While in combat, the triangles under the enemies are there to signal to you which character they are about to attack.
-This is meant to help you better prepare and to better use what dice you are given.
+This is meant to help you better prepare and to better use what dice you are given. <br />
 
 Should you lose combat, you won't immediately lose the game.
 Instead, you will lose some health in the dungeon crawl mode.
