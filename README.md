@@ -2,7 +2,7 @@
 This game was made by me to hone my skills, therefore it is largely unfinished and only features basic implementations of several features.
 This was also my first time creating a turn based system with multiple combatants, which was entirely created by me, starting from a basic 1v1 turn based combat tutorial.
 
--CONTROLS-
+-CONTROLS- <br />
 -DUNGEON CRAWL MODE-
 W - Walk forwards
 A - Strafe left
