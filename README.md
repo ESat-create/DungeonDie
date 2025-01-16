@@ -11,9 +11,9 @@ D - Strafe right <br />
 Q - Turn left <br />
 E - Turn right <br />
 F - Interact <br />
--COMBAT MODE-
-LEFT CLICK - select which allies to select, enemies to attack and  to roll dice
--DEV KEYBINDS-
+-COMBAT MODE- <br />
+LEFT CLICK - select which allies to select, enemies to attack and  to roll dice <br />
+-DEV KEYBINDS- <br />
 Z and X - to immediately start and end the placeholder combat encounter
 
 -THINGS OF NOTE-
